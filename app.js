@@ -24,7 +24,8 @@
         //} else {
           //  console.log("that's not correct");
         //}
-            
+        // done
+        //done
         alert("welcom to Rases Website");
         while(phoneNumber=="" || phoneNumber==null){
             phoneNumber=prompt("Please insert your phoneNumber!!");
